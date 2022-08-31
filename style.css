@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgba(231, 241, 90, 0.719);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+.main-heading {
+    text-decoration: underline;
+}
+
+.sub-heading {
+    margin: 20px
+}
+
+.main-img {
+    margin: 40px 25px 25px 25px;
+}
+
+.list-container {
+    width: 35%;
+    margin: 10px auto;
+}
+
+.list-container li {
+    margin-left: 10%;
+}
+
+.items-list {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: left;
+}
+
+.description {
+    font-style: italic;
+}
